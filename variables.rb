@@ -12,3 +12,9 @@ my_height_feet = 5.92
 is_daytime = true
 is_hot_today = true
 
+first_name = "K"
+last_name = "C"
+
+puts first_name
+puts middle_initial
+puts last_name
