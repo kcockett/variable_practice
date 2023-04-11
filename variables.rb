@@ -9,3 +9,6 @@ number_of_moves = 11
 current_temperature = 81.5
 my_height_feet = 5.92
 
+is_daytime = true
+is_hot_today = true
+
